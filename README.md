@@ -1,5 +1,5 @@
 =-# 💫 About Me:
-# Hi there, I'm Mohamed Kalith! 👋<br><br>I'm a **[Full Stack Developer]** passionate about building accessible and performant web applications. I currently work at **Bhumi Soul** and love contributing to open source.<br><br>- 🌱 I’m currently learning **[New Technology, e.g., Rust or GraphQL]**<br>- 👯 I’m looking to collaborate on **[Full Stack Web development & ML model]**<br>- 💬 Ask me about **[React, Python, AWS]**<br>- 📫 How to reach me: **[mohamedkalith687@gmail.com]**<br>
+# Hi there, I'm Mohamed Kalith! 👋<br><br>I'm a **[Full Stack Developer&AI Engineer]** passionate about building accessible and performant web applications. I currently work at **Bhumi Soul** and love contributing to open source.<br><br>- 🌱 I’m currently learning **[New Technology, e.g., Rust or GraphQL]**<br>- 👯 I’m looking to collaborate on **[Full Stack Web development & ML model]**<br>- 💬 Ask me about **[React, Python, AWS]**<br>- 📫 How to reach me: **[mohamedkalith687@gmail.com]**<br>
 
 
 
