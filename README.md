@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mohamed Kalith! 👋<br><br>I'm a **[Full Stack Developer&AI Engineer]** passionate about building accessible and performant web applications. I currently work at **Bhumi Soul** and love contributing to open source.<br><br>- 🌱 I’m currently learning **[New Technology, e.g., Rust or GraphQL]**<br>- 👯 I’m looking to collaborate on **[Full Stack Web development & ML model]**<br>- 💬 Ask me about **[React, Python, AWS]**<br>- 📫 How to reach me: **[mohamedkalith687@gmail.com]**<br>
 
-[line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamed-kalith-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedkalith687@gmail.com) 
