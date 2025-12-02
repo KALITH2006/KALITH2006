@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs)](https://0xvNFT.github.io)
 
-=-# 💫 About Me:
+💫 About Me:
 # Hi there, I'm Mohamed Kalith! 👋<br><br>I'm a **[Full Stack Developer&AI Engineer]** passionate about building accessible and performant web applications. I currently work at **Bhumi Soul** and love contributing to open source.<br><br>- 🌱 I’m currently learning **[New Technology, e.g., Rust or GraphQL]**<br>- 👯 I’m looking to collaborate on **[Full Stack Web development & ML model]**<br>- 💬 Ask me about **[React, Python, AWS]**<br>- 📫 How to reach me: **[mohamedkalith687@gmail.com]**<br>
 
 
