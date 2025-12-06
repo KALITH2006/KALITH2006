@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5612AQHmfXu03WIBhA/article-cover_image-shrink_720_1280/0/1689012633580?e=2147483647&v=beta&t=tLTJ7NRLZEh7NzJTurK5kVFyZuhqvEo_QRXMfZEilPs)
 
-# Hi there, I'm Mohamed Kalith! 👋<p><p>I'm a **[Full Sta vs ck Developer&AI Engineer]** passionate about building accessible and performant web applications. I currently work at **Bhumi Soul** and love contributing to open source.<p><p>- 🌱 I’m currently learning **[New Technology, e.g., Rust or GraphQL]**<p>- 👯 I’m looking to collaborate on **[Full Stack Web development & ML model]**<p>- 💬 Ask me about **[React, Python, AWS]**<p2>- 📫 How to reach me: **[mohamedkalith687@gmail.com]**<p>
+# Hi there, I'm Mohamed Kalith! 👋<p><p>I'm a **[Full Stack Developer&AI Engineer]** passionate about building accessible and performant web applications. I currently work at **Bhumi Soul** and love contributing to open source.<p><p>- 🌱 I’m currently learning **[New Technology, e.g., Rust or GraphQL]**<p>- 👯 I’m looking to collaborate on **[Full Stack Web development & ML model]**<p>- 💬 Ask me about **[React, Python, AWS]**<p2>- 📫 How to reach me: **[mohamedkalith687@gmail.com]**<p>
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
