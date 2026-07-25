@@ -5,7 +5,7 @@ I'm a **Computer Science Student & AI Enthusiast** passionate about building int
 - 🌱 I’m currently learning **Natural Language Processing (NLP) **
 - 👯 I’m looking to collaborate on **innovative ML models and cloud computing projects**
 - 💬 Ask me about **Python, Data Science (Pandas, scikit-learn), AWS, and Java**
-- 📫 How to reach me: **mohamedkalith687@gmail.com**
+- 📫 How to reach me: **kalithmohamed2006@gmail.com**
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ## 🌐 Socials:
