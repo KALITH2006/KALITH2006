@@ -132,53 +132,6 @@ flowchart LR
 
 </details>
 
----
-
-## 📌 Featured Projects
-
-> 👉 Replace `YOUR_REPO_1` etc. with your real repository names. Cards update automatically.
-
-<div align="center">
-
-<a href="https://github.com/KALITH2006/YOUR_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KALITH2006&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" alt="repo 1"/>
-</a>
-<a href="https://github.com/KALITH2006/YOUR_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KALITH2006&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" alt="repo 2"/>
-</a>
-<br/>
-<a href="https://github.com/KALITH2006/YOUR_REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KALITH2006&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true" alt="repo 3"/>
-</a>
-<a href="https://github.com/KALITH2006/YOUR_REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KALITH2006&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true" alt="repo 4"/>
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KALITH2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALITH2006&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=KALITH2006&theme=tokyonight&hide_border=true" alt="streak"/>
-
-</div>
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KALITH2006&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%"/>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KALITH2006&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
-</div>
-
 ### 🐍 Contribution Snake
 
 <div align="center">
